@@ -1,4 +1,6 @@
-**Hello, My name is Pratham Agarwal**
+<h2 align="center">Hello 🤎, MySelf Pratham Agarwal  :)</h2>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ogparth_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-io) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Parth114_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.pratham5698@gmail.com) 
